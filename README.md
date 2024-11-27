@@ -1,4 +1,7 @@
-## Hi there 👋
+## About me
+My name is Katy. I live in Moscow and now I learn front-end developing in RSschool.
+
+## Language and Tools
 
 <!--
 **Katy1718/Katy1718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
